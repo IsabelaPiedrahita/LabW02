@@ -5,7 +5,7 @@ package fleettracker;
  * name and a fuel supply, linked by position across two parallel
  * arrays.
  * 
- * Lab W02: Galactic Fleet Inventory
+ * Lab W02: Galactic Fleet Inventory 
  * @version 1.0
  * @author Isabela Piedrahita 
  */
