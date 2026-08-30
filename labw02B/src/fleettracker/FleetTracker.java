@@ -7,7 +7,7 @@ package fleettracker;
  * 
  * Lab W02: Galactic Fleet Inventory
  * @version 1.0
- * @author Isabela Piedrahita
+ * @author Isabela Piedrahita 
  */
 public class FleetTracker {
 
